@@ -16,3 +16,15 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/qwerstgcfg).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Il Ladro della Bruma
+
+Un platform 2D in un'unica pagina HTML: apri `index.html` in un browser per giocare.
+
+- **A / D** o **← / →**: muovi
+- **Spazio**: salta
+- **J**: attacca
+- **K** o **Shift**: scatto
+- Su telefono: usa i pulsanti touch sullo schermo
+
+Recupera almeno 5 sigilli e raggiungi il caveau evitando i ladri.
